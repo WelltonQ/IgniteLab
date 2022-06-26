@@ -65,7 +65,7 @@ export function Subscribe() {
                 </div>
             </div>
 
-            <img src="/src/assets/code.png" alt="Imagem com programação" className="mt-10" />
+            <img src="https://user-images.githubusercontent.com/12499627/175819583-8a1c20ea-796a-4888-a5f5-306d9b87cc6e.png" alt="Imagem com programação" className="mt-10" />
         </div>
     )
 }
