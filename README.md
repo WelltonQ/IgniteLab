@@ -45,9 +45,9 @@ $ npm run dev
 ```
 ## 💾 Variáveis de Ambiente
 
-Para executar este projeto, você precisará adicionar as seguintes variáveis de ambiente ao seu .env.local:
-- VITE_API_URL: Link da API do GraphCMS (usado no Apollo Client)
-- VITE_API_ACCESS_TOKEN: Token GraphCMS (usado no Apollo Client)
+Para executar este projeto, você precisará adicionar as seguintes variáveis de ambiente ao seu `.env.local`:
+- `VITE_API_URL`: Link da API do GraphCMS (usado no Apollo Client)
+- `VITE_API_ACCESS_TOKEN`: Token GraphCMS (usado no Apollo Client)
 
 ## 📹 Vídeo Demonstrativo
 
