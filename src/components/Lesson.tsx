@@ -41,7 +41,7 @@ export function Lesson(props: LessonProps) {
           </span>
           )}
 
-          <span className={`text-xs rounded py-[0.125rem] px-2 text-white border font-bold ${isActiveLesson ? 'border-white' : 'border-green-300'}`}>
+          <span className={`text-xs rounded py-[0.125rem] px-2 text-white border font-bold ${isActiveLesson ? 'border-white' : 'border-green-300'} ${!isLessonAvailab && 'opacity-50'}`}>
           {props.type === 'live' ? 'AO VIVO' : 'AULA PRÁTICA'}
           </span>
         </header>
